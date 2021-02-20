@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Software Engineer
+
+my blog: <https://blog.naver.com/jjmin0202>, <https://jammdev.tistory.com/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frmk1075&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rmk1075)](https://solved.ac/rmk1075)
