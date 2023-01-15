@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer
+I am Backend Engineer.
 
-my blog: <https://blog.naver.com/jjmin0202>, <https://jammdev.tistory.com/>
+This is my blog. - <https://jammdev.tistory.com/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frmk1075&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rmk1075)](https://solved.ac/rmk1075)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmk1075&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmk1075&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmk1075&theme=dark&layout=compact&langs_count=10&exclude_repo=app_programming)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmk1075&theme=dark&layout=compact&langs_count=10&exclude_repo=app_programming&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
