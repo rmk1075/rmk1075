@@ -23,6 +23,6 @@ This is my blog. - <https://jammdev.tistory.com/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rmk1075)](https://solved.ac/rmk1075)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmk1075&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rmk1075&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmk1075&theme=dark&layout=compact&langs_count=10&exclude_repo=app_programming&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rmk1075&theme=dark&layout=compact&langs_count=10&exclude_repo=app_programming&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
