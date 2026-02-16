@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Jaemin Jeon (jamie).
+
+Thank you for visiting my GitHub.
+
+- email: rmk1075@gmail.com
+- blog: <https://jammdev.tistory.com/>
+
+--------------------------------
+
 <!--
 **rmk1075/rmk1075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +24,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Backend Engineer.
+### About
 
-This is my blog. - <https://jammdev.tistory.com/>
+2020년 5월부터 백엔드 엔지니어로 일하고 있습니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frmk1075&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rmk1075)](https://solved.ac/rmk1075)
+백오피스 시스템 운영, 실시간 영상 인식 시스템 개발, 이미지 MLOps 플랫폼 개발을 경험했습니다.
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rmk1075&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+현재는 법무관리 시스템을 개발하는 회사에서 LLM 을 사용한 법무 관리 기능 개발하고 있습니다.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rmk1075&theme=dark&layout=compact&langs_count=10&exclude_repo=app_programming&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### Interests
+
+- multi-tenancy 구조에서 유지보수하기 좋은 코드를 작성하는 방법을 고민하고 있습니다.
+- 서비스 성능을 위해 비동기 작업을 처리하는 방법에 관심있습니다.
+- LLM 기반의 AI Agent 를 개발하기 위해 관련 설계와 RAG, MCP, Langchain, llama-index 등을 공부하고 있습니다.
+
+### About
+
+2020년부터 백엔드 엔지니어로 일하면서 아래의 경험을 쌓았습니다.
+
+- Java/Spring 웹 서비스 운영
+- 실시간 영상 인식 시스템 개발
+- 이미지 MLOps 플랫폼 개발
+
+현재는 Python/Django 기반의 법무 관리 시스템을 운영하며, LLM 을 사용한 법무 관리 기능을 개발하고 있습니다.
+
+---
+
+### Interests
+
+- multi-tenant 구조 유지보수
+- 비동기 작업과 서비스 성능 최적화
+- LLM agents 개발 (RAG, MCP, LangChain, LlamaIndex 등등)
